@@ -9,8 +9,12 @@ import lombok.NoArgsConstructor;
 @AllArgsConstructor
 public class GoodsSearchReq {
 
-    private String authCode = "53355a4e293a4aa3b324bde512e55028c1a8cae2";
+    private String authCode;
     private String keyword;
     private Integer page;
     private Integer pageSize;
+
+    private String pid;
+    private String customParameters;
+
 }
