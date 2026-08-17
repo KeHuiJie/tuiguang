@@ -1,0 +1,16 @@
+{
+  "miniprogramRoot": "front/miniprogram/",
+  "cloudfunctionRoot": "backend/cloudfunctions/",
+  "compileType": "miniprogram",
+  "appid": "touristappid",
+  "projectname": "tuiguang-bijia",
+  "libVersion": "3.4.10",
+  "setting": {
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "minified": true,
+    "urlCheck": false,
+    "coverView": true
+  }
+}
